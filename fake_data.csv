@@ -1,0 +1,101 @@
+city,year,receiver,value,type,payes
+New York,2016,Charlie,8693.59,Grant,no
+São Paulo,2002,Diana,3564.03,Salary,yes
+Dubai,2009,Ivy,8488.94,Grant,yes
+London,2023,Eve,9835.19,Gift,no
+Paris,2005,Eve,8498.5,Grant,yes
+Paris,2010,Diana,1080.89,Gift,no
+London,2018,Jack,6552.54,Grant,no
+London,2011,Bob,8569.19,Loan,yes
+Sydney,2010,Ivy,1536.82,Bonus,no
+Sydney,2020,Frank,6448.2,Loan,no
+Toronto,2016,Frank,1422.26,Gift,no
+London,2001,Frank,5301.99,Grant,no
+Tokyo,2020,Frank,4899.55,Grant,yes
+New York,2017,Frank,921.6,Loan,yes
+Sydney,2019,Hank,7910.54,Bonus,no
+Sydney,2009,Hank,934.22,Bonus,yes
+Paris,2016,Jack,6310.59,Bonus,no
+Paris,2012,Grace,1834.73,Grant,yes
+Sydney,2021,Jack,2931.13,Loan,no
+Mumbai,2022,Alice,5502.25,Bonus,yes
+Toronto,2007,Grace,9019.25,Loan,yes
+Berlin,2023,Alice,5390.39,Loan,yes
+Tokyo,2020,Grace,5587.77,Grant,yes
+Paris,2011,Eve,9288.32,Gift,yes
+London,2009,Diana,3736.55,Loan,no
+Berlin,2014,Ivy,1291.05,Grant,no
+Berlin,2018,Jack,5210.79,Gift,no
+Dubai,2015,Ivy,833.03,Bonus,yes
+Tokyo,2004,Ivy,555.37,Bonus,no
+São Paulo,2014,Jack,4465.9,Gift,no
+Dubai,2023,Ivy,1454.86,Salary,yes
+Toronto,2002,Diana,9736.53,Loan,yes
+Sydney,2013,Ivy,2916.08,Salary,yes
+London,2004,Jack,7359.89,Loan,yes
+Sydney,2003,Frank,2592.98,Grant,no
+Mumbai,2003,Frank,9275.96,Grant,yes
+São Paulo,2019,Charlie,1487.98,Salary,no
+Sydney,2009,Diana,8740.14,Salary,no
+Tokyo,2007,Hank,4749.26,Bonus,yes
+Tokyo,2014,Frank,7448.8,Gift,no
+Sydney,2005,Frank,3179.27,Loan,yes
+New York,2019,Frank,7299.5,Grant,yes
+Berlin,2012,Frank,1487.75,Gift,no
+Mumbai,2004,Alice,7648.77,Bonus,yes
+Tokyo,2018,Frank,7926.16,Bonus,no
+Dubai,2020,Eve,2598.38,Bonus,no
+Dubai,2025,Alice,4574.71,Salary,no
+London,2001,Hank,8416.14,Gift,yes
+Tokyo,2011,Eve,9056.59,Bonus,yes
+Toronto,2001,Frank,5139.9,Bonus,no
+Mumbai,2000,Bob,6543.29,Gift,no
+Tokyo,2002,Diana,2505.2,Bonus,no
+London,2008,Alice,7708.76,Bonus,no
+Toronto,2010,Diana,602.45,Grant,yes
+Toronto,2011,Diana,8859.64,Gift,no
+Tokyo,2008,Alice,7561.9,Grant,yes
+Sydney,2012,Alice,7887.03,Grant,yes
+Paris,2014,Charlie,2114.77,Gift,yes
+São Paulo,2023,Eve,939.98,Grant,yes
+New York,2002,Eve,8607.73,Gift,no
+Sydney,2013,Alice,5612.57,Salary,no
+Mumbai,2004,Alice,8459.61,Gift,yes
+Paris,2014,Charlie,5140.36,Loan,yes
+Paris,2011,Jack,7103.0,Bonus,yes
+Dubai,2008,Ivy,6186.16,Grant,yes
+Sydney,2016,Charlie,7491.87,Loan,no
+Berlin,2006,Alice,3824.62,Loan,yes
+New York,2024,Frank,5840.86,Salary,yes
+Dubai,2021,Grace,1785.85,Bonus,yes
+Tokyo,2003,Bob,6881.14,Loan,yes
+São Paulo,2010,Ivy,3403.63,Grant,yes
+Mumbai,2007,Jack,2208.34,Bonus,yes
+New York,2005,Bob,6561.67,Gift,no
+São Paulo,2005,Charlie,8188.63,Salary,yes
+Sydney,2014,Eve,5482.72,Grant,no
+Dubai,2009,Alice,189.35,Salary,no
+Dubai,2006,Bob,6123.49,Loan,no
+Toronto,2008,Charlie,9275.98,Bonus,yes
+New York,2006,Jack,8885.84,Grant,no
+Mumbai,2002,Jack,1082.04,Gift,yes
+Paris,2000,Hank,8775.55,Salary,no
+Toronto,2007,Frank,2430.96,Grant,yes
+Mumbai,2017,Hank,1599.85,Bonus,no
+Paris,2017,Diana,9601.17,Gift,no
+Dubai,2004,Charlie,5169.35,Salary,no
+Dubai,2005,Alice,6571.19,Salary,yes
+Toronto,2002,Frank,1161.14,Loan,yes
+Toronto,2017,Diana,1151.56,Gift,yes
+São Paulo,2000,Hank,4640.46,Gift,no
+London,2017,Ivy,6627.09,Bonus,yes
+Mumbai,2014,Jack,6924.35,Gift,no
+Mumbai,2002,Jack,2868.77,Loan,no
+New York,2013,Jack,3901.99,Bonus,yes
+Tokyo,2012,Jack,7778.53,Grant,no
+New York,2012,Jack,1638.34,Loan,no
+Sydney,2004,Ivy,5524.65,Gift,yes
+Tokyo,2024,Eve,8800.82,Loan,yes
+Tokyo,2010,Jack,7446.56,Salary,yes
+Toronto,2002,Alice,8618.68,Bonus,yes
+Dubai,2006,Diana,2472.35,Gift,yes
